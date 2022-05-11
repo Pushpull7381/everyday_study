@@ -27,5 +27,5 @@
 - 최지민, `jimin`
 - 조명기, `naivete`
 - 정준, `jun`
-- 이희선, `sunny`
+- 이희선, `sunny`(화요일 제외)
 - 이지율, `ashielee`
